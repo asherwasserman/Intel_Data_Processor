@@ -11,7 +11,7 @@ It was developed as part of a collaborative team exercise using **Trello** for p
 
 ## Project Structure  
 
-intel-data-processor/
+intel-data-processor/  
 │
 ├── mission_processor.py      
 ├── personnel_analyzer.py      
